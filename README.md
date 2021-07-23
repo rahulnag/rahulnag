@@ -9,13 +9,16 @@ I have a passion for clean code, JavaScript, teaching, Blogging and Photogrpahy
 My current side project is [CapsCode](https://capscode.in)
 
 checkout my blogs at,
+
 [Dev.to](https://dev.to/capscode)
 
 [Hashnode](https://hashnode.com/@capscode)
 
 
 
+
 Connect with me here,
+
 [LinkedIn 💼](https://linkedin.com/in/rahulnag)
 
 [Twitter 🐦](https://twitter.com/iamrahulnag)
