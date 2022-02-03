@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rahul, a senior software developer 💻 currently working at [Bridgei2i.com](https://Bridgei2i.com) 🍲🥡
+I'm Rahul, a Lead Software Developer 💻 currently working at [Bridgei2i.com](https://Bridgei2i.com) 🍲🥡
 
 Founder at [CapsCode](https://capscode.in)
 
