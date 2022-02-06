@@ -1,4 +1,4 @@
-### Hi there
+### Hi There, <code><img height="30" width="30" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/images/hellohand.gif?raw=true"></code>
 
 <!-- 👋 -->
 
@@ -13,11 +13,15 @@ My current side project is [CapsCode](https://capscode.in)
 
 ### CHECKOUT MY BLOGS AT <br />
 
+---
+
 [Blog](https://www.capscode.in/blog)<br />
 [Dev.to](https://dev.to/capscode)<br />
 [Hashnode](https://hashnode.com/@capscode)<br />
 
 ### CONNECT WITH ME HERE, <br />
+
+---
 
 [LinkedIn 💼](https://linkedin.com/in/rahulnag)<br />
 [Twitter 🐦](https://twitter.com/iamrahulnag)<br />
@@ -25,6 +29,8 @@ My current side project is [CapsCode](https://capscode.in)
 [Email 📬](mailto:mr.rahulnag67@gmail.com)<br />
 
 ### 👨🏻‍💻 PROGRAMMING LANGUAGES I KNOW <br />
+
+---
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
