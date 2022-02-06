@@ -33,9 +33,21 @@ My current side project is [CapsCode](https://capscode.in)
 ---
 
 <code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/html/html.png?raw=true"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/css/css.png?raw=true"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/css/css3.png?raw=true"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/javascript/javascript.png?raw=true"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/reactjs/reactjs.png?raw=true"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/java/java.png?raw=true"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/c/c.png?raw=true"></code>
+
+### CLOUD TECHNOLOGIES I KNOW <br/>
+
+<code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/cloud/azure.svg?raw=true"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/cloud/firebase.svg?raw=true"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/cloud/amazon.svg?raw=true"></code>
+
+### DEVOPS <br/>
+
+<code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/cloud/amazon.svg?raw=true"></code>
 
 [![rahulnag's github stats](https://github-readme-stats.vercel.app/api?username=rahulnag&show_icons=true&theme=radical)](https://github.com/rahulnag/)
 
