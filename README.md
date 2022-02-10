@@ -1,7 +1,8 @@
+<img src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/images/rahulnag.png?raw=true">
+
 ### Hi There, <img height="30" width="30" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/images/hellohand.gif?raw=true"/>
 
 <!-- 👋 -->
-<img src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/images/rahulnag.png?raw=true">
 
 I'm Rahul, a passionate self-taught frontend web developer and Founder/ Tech Blogger at [CapsCode](https://capscode.in)
 Currentyl I am working as a Lead Software Developer 💻 [Bridgei2i.com](https://Bridgei2i.com) 🍲🥡
