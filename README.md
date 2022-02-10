@@ -36,6 +36,7 @@ My current side project is [CapsCode](https://capscode.in)
 <code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/css/css3.png?raw=true"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/javascript/javascript.png?raw=true"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/reactjs/reactjs.png?raw=true"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/reactjs/reactjs.png?raw=true"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/java/java.png?raw=true"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/rahulnag/rahulnag/master/tech-logos-collection/c/c.png?raw=true"></code>
 
