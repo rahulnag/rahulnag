@@ -4,7 +4,7 @@
 
 <!-- 👋 -->
 
-I'm Rahul, a passionate self-taught frontend web developer and Founder/ Tech Blogger at [CapsCode](https://capscode.in)
+I'm Rahul 👦, a passionate self-taught frontend web developer and Founder/ Tech Blogger at [CapsCode](https://capscode.in)
 Currently I am working as a Lead Software Developer at 💻 [Bridgei2i.com](https://Bridgei2i.com) 🍲🥡
 
 I believe in dreaming the things and giving it a shape.
@@ -13,7 +13,7 @@ I spend most of my time in writing codes and in my free timing i write tech blog
 My current side project is [CapsCode](https://capscode.in)
 <br /><br />
 
-### CHECKOUT MY BLOGS AT <br />
+### ✍️ CHECKOUT MY BLOGS AT <br />
 
 ---
 
@@ -21,7 +21,7 @@ My current side project is [CapsCode](https://capscode.in)
 [Dev.to](https://dev.to/capscode)<br />
 [Hashnode](https://hashnode.com/@capscode)<br />
 
-### CONNECT WITH ME HERE, <br />
+### ☎️ CONNECT WITH ME HERE, <br />
 
 ---
 
