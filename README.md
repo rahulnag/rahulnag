@@ -64,4 +64,4 @@ My current side project is [CapsCode](https://capscode.in)
 
 
 
- ![Snake animation](https://github.com/rahulnag/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://raw.githubusercontent.com/rahulnag/rahulnag/main/images/github-contribution-grid-snake.svg)
