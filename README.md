@@ -5,7 +5,7 @@
 <!-- 👋 -->
 
 I'm Rahul 👦, a passionate self-taught frontend web developer and Founder/ Tech Blogger at [CapsCode](https://capscode.in)
-Currently I am working as a AI Engineering Consutant at 💻 [Accenture, India](https://accenture.com) 🍲🥡
+Currently I am working as a AI Engineering Consultant at 💻 [Accenture, India](https://accenture.com) 🍲🥡
 
 I believe in dreaming the things and giving it a shape.
 I spend most of my time in writing codes and in my free timing i write tech blogs for you.
